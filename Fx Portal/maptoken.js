@@ -5,8 +5,8 @@ const { ethers } = require("ethers");
 // childchain = mumbai polygon testnet
 
 // connect provider to interact with eth and polygon chain
-const eth_provider = new ethers.providers.JsonRpcProvider("https://speedy-nodes-nyc.moralis.io/643aeed93950729354119385/eth/goerli");
-const matic_provider = new ethers.providers.JsonRpcProvider("https://speedy-nodes-nyc.moralis.io/643aeed93950729354119385/polygon/mumbai");
+const eth_provider = new ethers.providers.JsonRpcProvider("rpc url");
+const matic_provider = new ethers.providers.JsonRpcProvider("rpc url");
 
 // interface abi for root and child chain
 const roottunnel_abi = [
