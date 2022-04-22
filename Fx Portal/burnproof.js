@@ -7,12 +7,11 @@ const { providers, Wallet } = require("ethers");
 use(Web3ClientPlugin);
 
 // connect provider to interact with eth and polygon chain
-const parentProvider = new providers.JsonRpcProvider("https://speedy-nodes-nyc.moralis.io/643aeed93950729354119385/eth/goerli");
-const childProvider = new providers.JsonRpcProvider("https://speedy-nodes-nyc.moralis.io/643aeed93950729354119385/polygon/mumbai");
+const parentProvider = new providers.JsonRpcProvider("rpc url");
+const childProvider = new providers.JsonRpcProvider("rpc url");
 const privateKey = "private key"; // only for testing purpose, use env for real development
 
 const posClient = new POSClient();
-
 
 async function main() {
 
