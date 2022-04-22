@@ -1,8 +1,8 @@
 const hre = require("hardhat");
 const { ethers } = require("ethers");
 
-// rootchain = goerli eth testnet
-// childchain = mumbai polygon testnet
+// rootchain - goerli eth testnet
+// childchain - mumbai polygon testnet
 
 // connect provider to interact with eth and polygon chain
 const eth_provider = new ethers.providers.JsonRpcProvider("rpc url");
