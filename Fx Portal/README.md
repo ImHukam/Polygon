@@ -8,7 +8,7 @@ steps to convert eth erc20 token into polygon chain:
 2.after approve, deposit token into roottunnel contract using deposit() function. after few minutes, polygon chain base token will be receive into receiver address. its all process done by state sync mechanism. </br>
 3.to withdraw token into main chian, we have to use withdraw() function of childtunnel contract .. it will burn token on polygon chain, we have to save tx hash of that tx to generate proof. </br>
 4. after checkpointed, using buring tx hash, we can generate proof using exitmanager and withdarw manager. </br>
-5. in the last step, we have to submt burning proof on roottunnel using receiveMessage() function. in 20 minutes to 3 hour, eth base token will be receive.. </br>
+5. in the last step, we have to submt burning proof on roottunnel using receiveMessage() function. in 20 minutes to 3 hour, eth base token will be receive into receiver addresss.. </br>
 
 
 important links(goreli and mumbai testnet):
