@@ -1,4 +1,4 @@
-project overview: using this scripts or project, we canconvert eth erc20 token into polygon chain using fx portal,, 
+project overview: using this scripts or project, we can convert eth erc20 token into polygon chain using fx portal,, 
 
 what is fx portal?: FxPortal offers an alternative where ERC standardized tokens can be deployed without any mapping involved, simply using the deployed base FxPortal contracts.
 
