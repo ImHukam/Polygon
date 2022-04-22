@@ -13,13 +13,13 @@ steps to convert eth erc20 token into polygon chain:
 
 important links(goreli and mumbai testnet):
 
-eth test token: https://goerli.etherscan.io/address/0x0E9d93a7F5f847ED46e533eBB5b7c02aBaDe818B
-eth base roottunnel contract: https://goerli.etherscan.io/address/0x3658ccFDE5e9629b0805EB06AaCFc42416850961
+eth test token: https://goerli.etherscan.io/address/0x0E9d93a7F5f847ED46e533eBB5b7c02aBaDe818B </br>
+eth base roottunnel contract: https://goerli.etherscan.io/address/0x3658ccFDE5e9629b0805EB06AaCFc42416850961 
 
-polygon fx token: https://mumbai.polygonscan.com/token/0xb097791018ea1484bb92d4518a95ae9fa38b4d61
+polygon fx token: https://mumbai.polygonscan.com/token/0xb097791018ea1484bb92d4518a95ae9fa38b4d61 </br>
 polygon base childtunnel contract: https://mumbai.polygonscan.com/address/0x9C37aEbdb7Dd337E0215BC40152d6689DaF9c767
 
 process: 
-deposit transaction: https://goerli.etherscan.io/tx/0x1f0149a88b9e96b2629f969ce46b725b7895aa88d5716ddd99958c8dbc80e21b
-withdraw transaction: https://mumbai.polygonscan.com/tx/0x31f0cd46b7923a1d5b13f62881267d3d9dd6162a89e444b35a7cadb7b7fe8e0e
-burning tx hash: https://mumbai.polygonscan.com/tx/0x31f0cd46b7923a1d5b13f62881267d3d9dd6162a89e444b35a7cadb7b7fe8e0e
+deposit transaction: https://goerli.etherscan.io/tx/0x1f0149a88b9e96b2629f969ce46b725b7895aa88d5716ddd99958c8dbc80e21b </br>
+withdraw transaction: https://mumbai.polygonscan.com/tx/0x31f0cd46b7923a1d5b13f62881267d3d9dd6162a89e444b35a7cadb7b7fe8e0e </br>
+burning tx hash: https://mumbai.polygonscan.com/tx/0x31f0cd46b7923a1d5b13f62881267d3d9dd6162a89e444b35a7cadb7b7fe8e0e </br>
